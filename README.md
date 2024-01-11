@@ -7,24 +7,6 @@
     <li>✨ My current passion is modding with Java</li>
     <li>❤️ I am an avid supporter of self hosting and open source</li>
 </ul>
-<hr>
-<h3>My programming skills</h3>
-<ul>
-    <p>
-        🥇= Very good. I can work well with this language.<br>
-        🥈= Good. I am pretty fit with the language but i don't know enough to say that i am very good at it.<br>
-        🥉= Okay. I can work with it but i am not very fluent in this language.<br>
-    </p>
-    <li>🥇 Python</li>
-    <li>🥇 PHP</li>
-    <li>🥇 HTML</li>
-    <li>🥈 Java</li>
-    <li>🥈 CSS</li>
-    <li>🥉 JavaScript/TypeScript</li>
-    <li>🥉 Golang</li>
-    <li>🥉 C</li>
-    <li>🥉 C#</li>
-</ul>
 
 <p>In my free time i also repair phones, tablets, laptops and other smaller electronic devices for friends.</p>
 
