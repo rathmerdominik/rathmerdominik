@@ -3,7 +3,7 @@
 <h3>I work on Minecraft mods mainly for the <a href="https://modrinth.com/mod/mine-mine-no-mi">Mine Mine no Mi</a> mod and on some tools in general!</h3>
 
 <ul>
-    <li>⚙️ I currently work at shopware AG</li>
+    <li>⚙️ I currently work at asgoodasnew electronics GmbH</li>
     <li>✨ My current passion is modding with Java</li>
     <li>❤️ I am an avid supporter of self hosting and open source</li>
 </ul>
