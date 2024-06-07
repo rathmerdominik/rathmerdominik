@@ -1,4 +1,8 @@
-<h1>Hey there! I'm Dominik Rathmer 👋</h1>
+<div align="center">
+    <h1>Hey there! <br>
+    I am Dominik Rathmer</h1>
+    <img src="waving_hand.svg" height="100" width="100">
+</div>
 
 <h3>I work on Minecraft mods mainly for the <a href="https://modrinth.com/mod/mine-mine-no-mi">Mine Mine no Mi</a> mod and on some tools in general!</h3>
 
