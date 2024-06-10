@@ -37,8 +37,3 @@
 </details>
 <br>
 <p>I also configure and build PC Systems for friends and family.</p>
-
-
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/rathmerdominik/rathmerdominik/assets/13904508/596498b3-8cc9-4a2f-ab5a-00541f4a69c0');font-family: "Comic Sans MS";]{x0000}$}
